@@ -53,8 +53,11 @@ Applying filters to focus on companies with an EBITDA greater than $1 billion an
 Arranging the results by Sector and Market Cap Rank
 
 # Python Section
+
 1: Interactive Financial Correlation Analysis
+
 2: Financial Data Clustering and 3D Visualization
+
 3: Sector-wise Financial Ratio Analysis and Visualization
 
 
