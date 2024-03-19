@@ -3,7 +3,9 @@ Navigating the Financial Landscape through Python &amp; SQL
 
 🎯 Objectives:
 Utilize SQL queries to extract and summarize specific portions of the financial data.
+
 Conduct in-depth data analysis using Python.
+
 Use libraries such as pandas, numpy, matplotlib, seaborn, and plotly to scrutinize the data further and generate meaningful visualizations.
 
 # Dataset before SQL query: "company_financial_data.csv"
